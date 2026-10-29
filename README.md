@@ -1,72 +1,83 @@
-<br clear="both">
-
 <h1 align="center">Olá, eu sou o Juan 👽</h1>
 
-###
-
-<p align="left"></p>
-
-###
-
-<p align="left">Atualmente, sou residente no programa de TIC em Software do Serratec, onde estou me especializando como desenvolvedor fullstack. Desde muito novo, sempre fui apaixonado por programação e tecnologia. Hoje aos 21 anos, depois de uma trajetória como agente operacional na Defesa Civil, decidi mergulhar de cabeça no universo da programação.<br><br>Tenho grande interesse pelo desenvolvimento web. Já estudei front-end, mas também me interesso bastante pelo back-end, buscando sempre equilibrar conhecimento e prática nessas duas áreas. Sou uma pessoa dedicada e focada em aprender novos conceitos e tecnologias que possam melhorar meu trabalho diário e garantir a entrega de soluções eficientes e de qualidade.<br><br>Gosto de trabalhar em equipe, mas também sei me adaptar a situações onde o trabalho individual é necessário. Estou sempre aberto a colaborar, aprender e compartilhar conhecimento.</p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<br clear="both">
+<p align="center">
+  <b>Desenvolvedor Full Stack | Software e aplicações web, Agentes de IA e LLMs</b><br>
+  Transformação Digital e Inovação (TDI) na IRKO, no Rio de Janeiro
+</p>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/juan-da-silva-almeida-62aa491b5/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:almeidajuan529@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://discord.com/users/279011648889552899" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/juan-da-silva-almeida-62aa491b5/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo" />
   </a>
 </div>
 
-###
+### Sobre mim
 
-<p align="left"></p>
+Sou desenvolvedor full stack júnior na IRKO Outsourcing, no time de Transformação Digital e Inovação (TDI). Construo do zero software interno de grande acesso e desenvolvo agentes de IA e automações que tiram trabalho manual das equipes.
 
-###
+Trabalho em todas as camadas, da arquitetura e do banco às APIs e às telas, com Python, JavaScript, TypeScript, Node.js, React e PostgreSQL. Também monto a infraestrutura com Docker e Nginx, crio os pipelines de CI/CD no GitHub Actions que fazem o deploy e monitoro os servidores com Prometheus e Grafana. No dia a dia, uso o Claude como par de programação.
 
+Comecei na residência em TIC/Software do Serratec, entrei na IRKO como trainee em 2025 e, em 2026, fui monitor na área de Inteligência Artificial do Serratec.
+
+### Stack
+
+<p align="center"><b>Linguagens</b></p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuandaSilvaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuandaSilvaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" hspace="6" alt="python logo" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" hspace="6" alt="typescript logo" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" hspace="6" alt="javascript logo" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" hspace="6" alt="java logo" title="Java" />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/JuandaSilvaa/JuandaSilvaa/output/snake.svg" alt="Snake animation" />
-
-###
-
+<p align="center"><b>Front-end e back-end</b></p>
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="40" alt="blender logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" hspace="6" alt="react logo" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" hspace="6" alt="tailwind css logo" title="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" hspace="6" alt="html5 logo" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" hspace="6" alt="css3 logo" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" hspace="6" alt="nodejs logo" title="Node.js" />
+  <img src="https://cdn.simpleicons.org/fastify/8A8A8A" height="40" hspace="6" alt="fastify logo" title="Fastify" />
 </div>
 
-###
+<p align="center"><b>Banco de dados</b></p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" hspace="6" alt="postgresql logo" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" hspace="6" alt="redis logo" title="Redis" />
+</div>
+
+<p align="center"><b>Infraestrutura e ferramentas</b></p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" hspace="6" alt="docker logo" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" hspace="6" alt="nginx logo" title="Nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" hspace="6" alt="prometheus logo" title="Prometheus" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" hspace="6" alt="grafana logo" title="Grafana" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linux/FCC624" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" hspace="6" alt="linux logo" title="Linux" />
+  </picture>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" hspace="6" alt="git logo" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" hspace="6" alt="github actions logo" title="GitHub Actions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" hspace="6" alt="vscode logo" title="VS Code" />
+</div>
+
+<p align="center"><b>IA e automação</b></p>
+<div align="center">
+  <img src="https://cdn.simpleicons.org/claude/D97757" height="40" hspace="6" alt="claude logo" title="Claude" />
+  <img src="https://cdn.simpleicons.org/googlegemini" height="40" hspace="6" alt="gemini logo" title="Google Gemini" />
+  <img src="https://cdn.simpleicons.org/n8n" height="40" hspace="6" alt="n8n logo" title="n8n" />
+  <img src="https://cdn.simpleicons.org/langchain/4C9A8B" height="40" hspace="6" alt="langchain logo" title="LangChain" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" hspace="6" alt="selenium logo" title="Selenium" />
+</div>
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Agentes%20de%20IA&label=&color=0A66C2&style=for-the-badge" height="26" alt="agentes de ia" />
+  <img src="https://img.shields.io/static/v1?message=LLMs&label=&color=4B32C3&style=for-the-badge" height="26" alt="llms" />
+  <img src="https://img.shields.io/static/v1?message=RAG&label=&color=2E7D32&style=for-the-badge" height="26" alt="rag" />
+</div>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JuandaSilvaa/JuandaSilvaa/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JuandaSilvaa/JuandaSilvaa/output/snake.svg" />
+  <img alt="Animação da cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/JuandaSilvaa/JuandaSilvaa/output/snake.svg" />
+</picture>
