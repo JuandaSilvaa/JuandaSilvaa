@@ -80,6 +80,7 @@ Comecei na residência em TIC/Software do Serratec, entrei na IRKO como trainee 
 <div align="center">
   <img src="https://cdn.simpleicons.org/claude/D97757" height="40" hspace="6" alt="claude logo" title="Claude" />
   <img src="https://cdn.simpleicons.org/googlegemini" height="40" hspace="6" alt="gemini logo" title="Google Gemini" />
+  <img src="assets/icons/openai.svg" height="40" hspace="6" alt="openai logo" title="OpenAI (ChatGPT)" />
   <img src="https://cdn.simpleicons.org/n8n" height="40" hspace="6" alt="n8n logo" title="n8n" />
   <img src="https://cdn.simpleicons.org/langchain/4C9A8B" height="40" hspace="6" alt="langchain logo" title="LangChain" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" hspace="6" alt="selenium logo" title="Selenium" />
