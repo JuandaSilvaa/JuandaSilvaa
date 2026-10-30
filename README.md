@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Juan da Silva Almeida, desenvolvedor full stack. Software e aplicações web, agentes de IA e automação." />
+</p>
+
 <h1 align="center">Olá, eu sou o Juan 👽</h1>
 
 <p align="center">
