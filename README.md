@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Juan da Silva Almeida, desenvolvedor full stack. Software e aplicações web, agentes de IA e automação." />
+  <picture>
+    <source media="(max-width: 600px)" srcset="https://raw.githubusercontent.com/JuandaSilvaa/JuandaSilvaa/main/assets/banner-mobile.svg" />
+    <img src="assets/banner.svg" width="100%" alt="Editor de código com linhas se escrevendo, pipeline de CI/CD e painel de monitoramento" />
+  </picture>
 </p>
 
 <h1 align="center">Olá, eu sou o Juan 👽</h1>
@@ -32,6 +35,7 @@ Comecei na residência em TIC/Software do Serratec, entrei na IRKO como trainee 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" hspace="6" alt="javascript logo" title="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" hspace="6" alt="java logo" title="Java" />
 </div>
+<br>
 
 <p align="center"><b>Front-end e back-end</b></p>
 <div align="center">
@@ -42,27 +46,35 @@ Comecei na residência em TIC/Software do Serratec, entrei na IRKO como trainee 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" hspace="6" alt="nodejs logo" title="Node.js" />
   <img src="https://cdn.simpleicons.org/fastify/8A8A8A" height="40" hspace="6" alt="fastify logo" title="Fastify" />
 </div>
+<br>
 
 <p align="center"><b>Banco de dados</b></p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" hspace="6" alt="postgresql logo" title="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" hspace="6" alt="redis logo" title="Redis" />
 </div>
+<br>
 
-<p align="center"><b>Infraestrutura e ferramentas</b></p>
+<p align="center"><b>Infraestrutura</b></p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" hspace="6" alt="docker logo" title="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" hspace="6" alt="nginx logo" title="Nginx" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" hspace="6" alt="prometheus logo" title="Prometheus" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" hspace="6" alt="grafana logo" title="Grafana" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/linux/FCC624" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" hspace="6" alt="linux logo" title="Linux" />
   </picture>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" hspace="6" alt="git logo" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="40" hspace="6" alt="github actions logo" title="GitHub Actions" />
+</div>
+<br>
+
+<p align="center"><b>Monitoramento e ferramentas</b></p>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" hspace="6" alt="prometheus logo" title="Prometheus" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" hspace="6" alt="grafana logo" title="Grafana" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" hspace="6" alt="git logo" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" hspace="6" alt="vscode logo" title="VS Code" />
 </div>
+<br>
 
 <p align="center"><b>IA e automação</b></p>
 <div align="center">
